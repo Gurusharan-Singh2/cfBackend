@@ -1,4 +1,4 @@
-import Orders from "../models/Orders.js";
+import Orders from "../models/orders.js";
 import User from "../models/user.js";
 
 const PlaceOrder =async(req,res)=>{
